@@ -20,10 +20,20 @@ Check out some of my top projects:
 A terminal chat app in C using ncurses, threads, and UDP sockets for real-time messaging.
 
 
-## 📜 Certifications
 
-![Cisco](https://img.shields.io/badge/Cisco%20CSST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
-**Cisco Networking Technician**  -This is a new cisco certification below CCNA
+
+## 📜 Certifications
+[![CCNA](https://img.shields.io/badge/CCNA_1&2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez)
+[![Cisco CCST](https://img.shields.io/badge/Cisco%20CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez) 
+
+*Cisco Certified Network Associate  (CCNA 1 & 2) – Core networking certification*
+
+*Cisco Networking Technician (CCST) – Entry-level certification below CCNA*  
+
+
+[![Ver mis certificaciones en Credly](https://img.shields.io/badge/Credly-Profile-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez)
+
+
 
 ---
 
