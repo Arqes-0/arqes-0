@@ -16,7 +16,7 @@ Passionate about embedded systems and low-level programming.
 Check out some of my top projects:
 
 [![SimpleBencher](https://github-readme-stats.vercel.app/api/pin/?username=arqes-0&repo=SimpleBencher&theme=radical)](https://github.com/arqes-0/SimpleBencher)  [![StudAsk](https://github-readme-stats.vercel.app/api/pin/?username=arqes-0&repo=StudAsk&theme=radical)](https://github.com/arqes-0/StudAsk)  [![ChatIP](https://github-readme-stats.vercel.app/api/pin/?username=arqes-0&repo=ChatIP&theme=radical)](https://github.com/arqes-0/ChatIP)  
-### 🚧 Currently Working on: SCFS  
+### 🚧 Currently Working on: SCFT  
 Lightweight server-client file sync over TCP via SSH. Push, pull, or sync only modified files securely and locally.
 
 
