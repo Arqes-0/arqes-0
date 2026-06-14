@@ -8,8 +8,6 @@ Passionate about embedded systems and low-level programming.
 ## 🚀 About Me
 - 🌱 Currently learning: C, Bare-metal programming, Advanced networking, Microcontrollers 
 - 🎯 Looking to collaborate on: Embedded systems projects, Real-time applications, Network tools, Open-source C projects, IoT solutions  
-- 📫 Contact Me
-    - ![Discord](https://img.shields.io/badge/Arqes-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ---
 ## 📌 Pinned Projects
 
