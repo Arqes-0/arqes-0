@@ -5,9 +5,9 @@
 Passionate about embedded systems and low-level programming.
 
 
-## 🚀 About Me
-- 🌱 Currently learning: C, Bare-metal programming, Advanced networking, Microcontrollers 
-- 🎯 Looking to collaborate on: Embedded systems projects, Real-time applications, Network tools, Open-source C projects, IoT solutions  
+##  About Me
+-  Currently learning: C, Bare-metal programming, Advanced networking, Microcontrollers 
+-  Looking to collaborate on: Embedded systems projects, Real-time applications, Network tools, Open-source C projects, IoT solutions  
 ---
 ## 📌 Pinned Projects
 
@@ -19,11 +19,11 @@ Check out some of my top projects:
 
 
 
-## 📜 Certifications
-[![CCNA](https://img.shields.io/badge/CCNA_1&2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez)
+##  Certifications
+[![CCNA](https://img.shields.io/badge/CCNA_1&2&3-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez)
 [![Cisco CCST](https://img.shields.io/badge/Cisco%20CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/samuel-torres-hernandez) 
 
-*Cisco Certified Network Associate  (CCNA 1 & 2) – Core networking certification*
+*Cisco Certified Network Associate  (CCNA 1 & 2 & 3) – Core networking certification course*
 
 *Cisco Networking Technician (CCST) – Entry-level certification below CCNA*  
 
@@ -36,7 +36,7 @@ Check out some of my top projects:
 
 ## 🛠️ Technologies & Tools
 
-![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-000?&logo=oracle&logoColor=white)   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 
 <div align="center">
   
